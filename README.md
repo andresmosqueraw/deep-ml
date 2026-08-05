@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 2 problems · 0 labs · 1 math
+**8** solved · 4 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-28 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-08-05 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-08-05 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-07-29 | [solution](problems/0309-product-rule-for-derivatives) |
 
 ## Math
@@ -20,6 +22,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-08-02 | [solution](math/0001-derivatives-and-gradients) |
+| [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-08-05 | [solution](math/0009-matrix-basics) |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-08-05 | [solution](math/0007-vector-operations) |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-08-05 | [solution](math/0010-matrix-multiplication) |
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:36:51.138Z",
+  "generated_at": "2026-09-30T13:36:53.267Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -37,6 +37,65 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-08-02T01:04:41.048Z",
       "last_pushed_at": "2026-08-02T01:04:41.048Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-08-05T16:38:37.921Z",
+      "last_pushed_at": "2026-08-05T16:38:37.921Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-08-05T16:50:49.662Z",
+      "last_pushed_at": "2026-08-05T16:50:49.662Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-08-05T17:18:22.633Z",
+      "last_pushed_at": "2026-08-05T17:18:22.633Z"
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-08-05T23:34:59.596Z",
+      "last_pushed_at": "2026-08-05T23:34:59.596Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-08-05T23:48:17.231Z",
+      "last_pushed_at": "2026-08-05T23:48:17.231Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
