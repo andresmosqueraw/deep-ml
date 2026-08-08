@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 10 problems · 0 labs · 4 math
+**18** solved · 12 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,12 +13,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-28 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-08-08 | [solution](problems/0083-dot-product-calculator) |
 | [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-08-07 | [solution](problems/0375-learned-positional-embeddings) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-08-07 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-08-05 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-08-06 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-08-06 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-08-05 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-08-08 | [solution](problems/0121-vector-element-wise-sum) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-08-07 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-07-29 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-08-07 | [solution](problems/0025-single-neuron-with-backpropagation) |
@@ -28,6 +30,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-08-02 | [solution](math/0001-derivatives-and-gradients) |
+| [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-08-08 | [solution](math/0018-descriptive-statistics) |
+| [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-08-08 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-08-05 | [solution](math/0009-matrix-basics) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-08-05 | [solution](math/0007-vector-operations) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-08-05 | [solution](math/0010-matrix-multiplication) |
