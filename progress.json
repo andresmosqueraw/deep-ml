@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:36:59.743Z",
+  "generated_at": "2026-09-30T13:37:01.798Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -222,6 +222,45 @@
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-08-08T18:56:43.513Z",
       "last_pushed_at": "2026-08-08T18:56:43.513Z"
+    },
+    "problem:263": {
+      "kind": "problem",
+      "id": "263",
+      "title": "Implement Binary Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/263",
+      "path": "problems/0263-implement-binary-cross-entropy-loss",
+      "first_solved_at": "2026-08-09T00:42:58.224Z",
+      "last_pushed_at": "2026-08-09T00:42:58.224Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-08-09T03:05:33.195Z",
+      "last_pushed_at": "2026-08-09T03:05:33.195Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-08-09T03:14:26.829Z",
+      "last_pushed_at": "2026-08-09T03:14:26.829Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 12 problems · 0 labs · 6 math
+**21** solved · 15 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-28 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-08-08 | [solution](problems/0083-dot-product-calculator) |
+| [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-08-09 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-08-09 | [solution](problems/0042-implement-relu-activation-function) |
+| [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-08-09 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Learned Positional Embeddings](https://www.deep-ml.com/problems/375) | easy | 2026-08-07 | [solution](problems/0375-learned-positional-embeddings) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-08-07 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-08-05 | [solution](problems/0022-sigmoid-activation-function-understanding) |
