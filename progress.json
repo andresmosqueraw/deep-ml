@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:37:06.064Z",
+  "generated_at": "2026-09-30T13:37:08.160Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -287,6 +287,45 @@
       "last_pushed_at": "2026-08-12T23:07:23.907Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-08-13T19:26:32.445Z",
+      "last_pushed_at": "2026-08-13T19:26:32.445Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-08-13T19:32:09.972Z",
+      "last_pushed_at": "2026-08-13T19:32:09.972Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-08-13T21:55:30.541Z",
+      "last_pushed_at": "2026-08-13T21:55:30.541Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
