@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:37:10.210Z",
+  "generated_at": "2026-09-30T13:37:12.724Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -402,6 +402,119 @@
       "last_pushed_at": "2026-08-14T23:21:50.499Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-08-16T17:46:38.789Z",
+      "last_pushed_at": "2026-08-16T17:46:38.789Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:882": {
+      "kind": "problem",
+      "id": "882",
+      "title": "Add a Bias Vector to a Batch via Broadcasting",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/882",
+      "path": "problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting",
+      "first_solved_at": "2026-08-16T18:08:18.379Z",
+      "last_pushed_at": "2026-08-16T18:08:18.379Z",
+      "language": "python",
+      "lines": 6
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-08-16T20:37:33.101Z",
+      "last_pushed_at": "2026-08-16T20:37:33.101Z"
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-08-16T20:44:55.876Z",
+      "last_pushed_at": "2026-08-16T20:44:55.876Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-08-16T20:55:50.399Z",
+      "last_pushed_at": "2026-08-16T20:55:50.399Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:1225": {
+      "kind": "problem",
+      "id": "1225",
+      "title": "Two-Layer MLP Forward Pass",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1225",
+      "path": "problems/1225-two-layer-mlp-forward-pass",
+      "first_solved_at": "2026-08-16T21:25:54.304Z",
+      "last_pushed_at": "2026-08-16T21:25:54.304Z",
+      "language": "python",
+      "lines": 40
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-08-16T21:41:49.076Z",
+      "last_pushed_at": "2026-08-16T21:41:49.076Z"
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-08-16T22:14:50.572Z",
+      "last_pushed_at": "2026-08-16T22:14:50.572Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:1022": {
+      "kind": "problem",
+      "id": "1022",
+      "title": "L2 Normalization Along an Axis",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1022",
+      "path": "problems/1022-l2-normalization-along-an-axis",
+      "first_solved_at": "2026-08-16T22:56:54.458Z",
+      "last_pushed_at": "2026-08-16T22:56:54.458Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
