@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:37:12.724Z",
+  "generated_at": "2026-09-30T13:37:15.019Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -515,6 +515,32 @@
       "last_pushed_at": "2026-08-16T22:56:54.458Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-08-17T01:58:49.499Z",
+      "last_pushed_at": "2026-08-17T01:58:49.499Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:883": {
+      "kind": "problem",
+      "id": "883",
+      "title": "Implement a Linear Layer Forward Pass with Matrix Multiplication",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/883",
+      "path": "problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication",
+      "first_solved_at": "2026-08-17T15:45:41.733Z",
+      "last_pushed_at": "2026-08-17T15:45:41.733Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
