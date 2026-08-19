@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:37:15.019Z",
+  "generated_at": "2026-09-30T13:37:17.582Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -541,6 +541,32 @@
       "last_pushed_at": "2026-08-17T15:45:41.733Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:884": {
+      "kind": "problem",
+      "id": "884",
+      "title": "Compute a Gradient with PyTorch Autograd",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/884",
+      "path": "problems/0884-compute-a-gradient-with-pytorch-autograd",
+      "first_solved_at": "2026-08-19T14:38:48.050Z",
+      "last_pushed_at": "2026-08-19T14:38:48.050Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-08-19T15:07:12.412Z",
+      "last_pushed_at": "2026-08-19T15:07:12.412Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
