@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:37:17.582Z",
+  "generated_at": "2026-09-30T13:37:19.581Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -567,6 +567,71 @@
       "last_pushed_at": "2026-08-19T15:07:12.412Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-08-20T12:53:20.902Z",
+      "last_pushed_at": "2026-08-20T12:53:20.902Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-08-20T13:08:59.901Z",
+      "last_pushed_at": "2026-08-20T13:08:59.901Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-08-20T23:09:25.012Z",
+      "last_pushed_at": "2026-08-20T23:09:25.012Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:1226": {
+      "kind": "problem",
+      "id": "1226",
+      "title": "Implement ReLU and Leaky ReLU",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1226",
+      "path": "problems/1226-implement-relu-and-leaky-relu",
+      "first_solved_at": "2026-08-20T23:39:12.024Z",
+      "last_pushed_at": "2026-08-20T23:39:12.024Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:1227": {
+      "kind": "problem",
+      "id": "1227",
+      "title": "Numerically Stable Softmax",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1227",
+      "path": "problems/1227-numerically-stable-softmax",
+      "first_solved_at": "2026-08-20T23:51:18.652Z",
+      "last_pushed_at": "2026-08-20T23:51:18.652Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
