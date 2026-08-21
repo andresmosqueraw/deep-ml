@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:37:19.581Z",
+  "generated_at": "2026-09-30T13:37:21.863Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -632,6 +632,45 @@
       "last_pushed_at": "2026-08-20T23:51:18.652Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:40": {
+      "kind": "problem",
+      "id": "40",
+      "title": "Implementing a Custom Dense Layer in Python",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/40",
+      "path": "problems/0040-implementing-a-custom-dense-layer-in-python",
+      "first_solved_at": "2026-08-21T19:41:20.862Z",
+      "last_pushed_at": "2026-08-21T19:41:20.862Z",
+      "language": "python",
+      "lines": 61
+    },
+    "problem:1228": {
+      "kind": "problem",
+      "id": "1228",
+      "title": "Mean Squared Error from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1228",
+      "path": "problems/1228-mean-squared-error-from-scratch",
+      "first_solved_at": "2026-08-21T20:03:25.026Z",
+      "last_pushed_at": "2026-08-21T20:03:25.026Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:1229": {
+      "kind": "problem",
+      "id": "1229",
+      "title": "Binary Cross-Entropy from Logits",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1229",
+      "path": "problems/1229-binary-cross-entropy-from-logits",
+      "first_solved_at": "2026-08-21T20:31:09.360Z",
+      "last_pushed_at": "2026-08-21T20:31:09.360Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
