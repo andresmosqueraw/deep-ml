@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:37:21.863Z",
+  "generated_at": "2026-09-30T13:37:24.348Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -671,6 +671,45 @@
       "last_pushed_at": "2026-08-21T20:31:09.360Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-08-22T18:58:47.870Z",
+      "last_pushed_at": "2026-08-22T18:58:47.870Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-08-22T19:23:04.857Z",
+      "last_pushed_at": "2026-08-22T19:23:04.857Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-08-22T22:21:37.150Z",
+      "last_pushed_at": "2026-08-22T22:21:37.150Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
