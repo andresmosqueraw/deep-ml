@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:37:24.348Z",
+  "generated_at": "2026-09-30T13:37:26.936Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -710,6 +710,56 @@
       "last_pushed_at": "2026-08-22T22:21:37.150Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:838": {
+      "kind": "problem",
+      "id": "838",
+      "title": "Error Analysis from Confusion Matrix",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/838",
+      "path": "problems/0838-error-analysis-from-confusion-matrix",
+      "first_solved_at": "2026-08-23T13:59:54.810Z",
+      "last_pushed_at": "2026-08-23T13:59:54.810Z",
+      "language": "python",
+      "lines": 39
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-08-23T17:23:16.976Z",
+      "last_pushed_at": "2026-08-23T17:23:16.976Z"
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-08-23T17:33:16.236Z",
+      "last_pushed_at": "2026-08-23T17:33:16.236Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-08-23T17:53:21.650Z",
+      "last_pushed_at": "2026-08-23T17:53:21.650Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }

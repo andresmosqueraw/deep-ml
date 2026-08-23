@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**56** solved · 47 problems · 0 labs · 9 math
+**60** solved · 50 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-08-19 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-08-10 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-08-14 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
+| [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-08-23 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-08-16 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-07-28 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-08-13 | [solution](problems/0217-derivatives-of-activation-functions) |
@@ -30,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-08-20 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-08-17 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-08-09 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-08-23 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-08-20 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-08-09 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-08-20 | [solution](problems/1226-implement-relu-and-leaky-relu) |
@@ -53,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-08-21 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-22 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-08-14 | [solution](problems/0219-derivative-of-softmax) |
+| [Error Analysis from Confusion Matrix](https://www.deep-ml.com/problems/838) | medium | 2026-08-23 | [solution](problems/0838-error-analysis-from-confusion-matrix) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-08-07 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-08-20 | [solution](problems/1227-numerically-stable-softmax) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-07-29 | [solution](problems/0309-product-rule-for-derivatives) |
@@ -68,6 +71,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-08-08 | [solution](math/0018-descriptive-statistics) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-08-08 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-08-05 | [solution](math/0009-matrix-basics) |
+| [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-08-23 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-08-05 | [solution](math/0007-vector-operations) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-08-05 | [solution](math/0010-matrix-multiplication) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-08-16 | [solution](math/0003-neural-network-derivatives) |
