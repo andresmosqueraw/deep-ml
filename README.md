@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**64** solved · 54 problems · 0 labs · 10 math
+**65** solved · 55 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -56,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-08-14 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-08-21 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-22 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2026-09-03 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-08-14 | [solution](problems/0219-derivative-of-softmax) |
 | [Error Analysis from Confusion Matrix](https://www.deep-ml.com/problems/838) | medium | 2026-08-23 | [solution](problems/0838-error-analysis-from-confusion-matrix) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-08-28 | [solution](problems/0354-handle-missing-data-with-imputation) |
