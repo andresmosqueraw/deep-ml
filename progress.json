@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:48:16.581Z",
+  "generated_at": "2026-09-30T18:11:21.474Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -438,7 +438,7 @@
       "url": "https://www.deep-ml.com/math-problems/32",
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-08-16T20:37:33.101Z",
-      "last_pushed_at": "2026-09-30T13:37:37.698Z"
+      "last_pushed_at": "2026-09-30T18:11:20.747Z"
     },
     "problem:39": {
       "kind": "problem",
