@@ -9,12 +9,10 @@ def activation_derivatives(x: float) -> dict[str, float]:
 	Returns:
 		Dictionary with keys 'sigmoid', 'tanh', 'relu' and their derivative values
 	"""
-	sigmoid = 1/(1+math.exp(-x))
+	sigmoid = 1 / (1+math.exp(-x))
 	tanh = (math.exp(x) - math.exp(-x)) / (math.exp(x) + math.exp(-x))
-	relu = max(0, x)
-	result = {
-		"sigmoid": sigmoid * (1-sigmoid),
-		"tanh": 1 - (tanh ** 2),
-		"relu": 1 if x > 0 else 0
+	return {
+		'sigmoid': sigmoid * (1-sigmoid), 
+		'tanh': 1 - tanh**2, 
+		'relu': 1 if x > 0 else 0
 	}
-	return result
