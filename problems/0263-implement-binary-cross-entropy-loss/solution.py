@@ -11,34 +11,16 @@ def binary_cross_entropy(y_true: list[float], y_pred: list[float], epsilon: floa
 	Returns:
 		Mean binary cross-entropy loss
 	"""
-	n = len(y_true)
-	total_loss = 0.0
+	bce = 0
+	for i in range(len(y_true)):
+		truth = y_true[i]
+		pred = y_pred[i]
 
-	for i in range(n):
-		true_prob = y_true[i]
-		predicted_prob = y_pred[i]
+		if pred < epsilon:
+			pred = epsilon
+		elif pred > 1 - epsilon:
+			pred = epsilon
 
-		if predicted_prob < epsilon:
-			predicted_prob = epsilon
-		elif predicted_prob > 1 - epsilon:
-			predicted_prob = 1 - epsilon
+		bce += truth * math.log(pred) + (1-truth) * math.log(1-pred)
 
-		sample_loss = (true_prob*math.log(predicted_prob) + (1-true_prob) * math.log(1-predicted_prob))
-		total_loss += sample_loss*-1
-	
-	mean_loss = total_loss / n
-	return mean_loss
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	return -bce / len(y_true)
