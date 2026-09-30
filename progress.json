@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:23:45.568Z",
+  "generated_at": "2026-09-30T21:36:34.581Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -668,9 +668,9 @@
       "url": "https://www.deep-ml.com/problems/1229",
       "path": "problems/1229-binary-cross-entropy-from-logits",
       "first_solved_at": "2026-08-21T20:31:09.360Z",
-      "last_pushed_at": "2026-08-21T20:31:09.360Z",
+      "last_pushed_at": "2026-09-30T21:36:34.052Z",
       "language": "python",
-      "lines": 14
+      "lines": 17
     },
     "problem:146": {
       "kind": "problem",

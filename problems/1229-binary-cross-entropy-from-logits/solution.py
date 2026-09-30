@@ -10,5 +10,8 @@ def bce_with_logits(logits, targets):
     Returns:
         float: mean loss rounded to 4 decimal places.
     """
-    loss = torch.clip(logits, min=0) - logits * targets + torch.log1p(torch.exp(-torch.abs(logits)))
-    return round(float(loss.mean().item()), 4)
+    # TODO: stable BCE-with-logits, mean, round to 4 decimals
+    x = logits
+    y = targets
+    bce_stable = torch.clip(x, min=0) - x * y + torch.log(1+torch.exp(-torch.abs(x)))
+    return round(float(torch.mean(bce_stable)), 4)
