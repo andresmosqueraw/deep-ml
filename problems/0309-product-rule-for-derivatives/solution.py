@@ -11,24 +11,19 @@ def product_rule_derivative(f_coeffs: list, g_coeffs: list) -> list:
     Returns:
         Coefficients of (f*g)' as a list of floats rounded to 4 decimal places
     """
-    
-    # convolucion
-    product = [0.0] * (len(f_coeffs)*len(g_coeffs))
-    for i, a in enumerate(f_coeffs):
-        for j, b in enumerate(g_coeffs):
-            product[i+j] += a * b
-    
-    # derivative
-    derivative = []
-    for k in range(1, len(product)):
-        val = float(round(product[k] * k, 4))
-        derivative.append(val)
-    
-    
-    while len(derivative) > 0 and derivative[-1] == 0.0:
-        derivative.pop()
-    
-    return derivative or [0.0]
-    
+    len_f = len(f_coeffs)
+    len_g = len(g_coeffs)
+    convolution = [0] * (len_f + len_g - 1)
 
+    for i in range(len_f):
+        for j in range(len_g):
+            convolution[i+j] += f_coeffs[i] * g_coeffs[j]
 
+    print(convolution)
+    if len(convolution) == 1:
+        return [0.0]
+    derivatives = []
+    for i in range(1, len(convolution)):
+        derivatives.append(convolution[i] * i)
+
+    return derivatives
