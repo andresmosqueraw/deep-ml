@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T20:57:08.333Z",
+  "generated_at": "2026-09-30T21:08:43.982Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -271,9 +271,9 @@
       "url": "https://www.deep-ml.com/problems/134",
       "path": "problems/0134-compute-multi-class-cross-entropy-loss",
       "first_solved_at": "2026-08-10T21:45:55.505Z",
-      "last_pushed_at": "2026-08-10T21:45:55.505Z",
+      "last_pushed_at": "2026-09-30T21:08:43.461Z",
       "language": "python",
-      "lines": 27
+      "lines": 21
     },
     "problem:93": {
       "kind": "problem",
