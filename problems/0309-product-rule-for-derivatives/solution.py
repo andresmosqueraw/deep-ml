@@ -1,6 +1,7 @@
-import numpy as np
+import torch
+import torch.nn.functional as F
 
-def product_rule_derivative(f_coeffs: list, g_coeffs: list) -> list:
+def product_rule_derivative(f_coeffs: list, g_coeffs: list) -> torch.Tensor:
     """
     Compute the derivative of the product of two polynomials.
     
@@ -9,21 +10,16 @@ def product_rule_derivative(f_coeffs: list, g_coeffs: list) -> list:
         g_coeffs: Coefficients of polynomial g, where g_coeffs[i] is the coefficient of x^i
     
     Returns:
-        Coefficients of (f*g)' as a list of floats rounded to 4 decimal places
+        torch.Tensor of coefficients of (f*g)' rounded to 4 decimal places
     """
     len_f = len(f_coeffs)
     len_g = len(g_coeffs)
-    convolution = [0] * (len_f + len_g - 1)
-
+    convolution = torch.zeros(len_f + len_g - 1)
     for i in range(len_f):
         for j in range(len_g):
             convolution[i+j] += f_coeffs[i] * g_coeffs[j]
 
-    print(convolution)
     if len(convolution) == 1:
-        return [0.0]
-    derivatives = []
-    for i in range(1, len(convolution)):
-        derivatives.append(convolution[i] * i)
+        return torch.tensor(0.0)
 
-    return derivatives
+    return torch.arange(1, len(convolution)) * convolution[1:]
