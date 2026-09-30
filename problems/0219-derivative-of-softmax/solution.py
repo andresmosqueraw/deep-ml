@@ -1,4 +1,5 @@
 import math
+
 def softmax_derivative(x: list[float]) -> list[list[float]]:
 	"""
 	Compute the Jacobian matrix of the softmax function.
@@ -9,23 +10,19 @@ def softmax_derivative(x: list[float]) -> list[list[float]]:
 	Returns:
 		Jacobian matrix J where J[i][j] = d(softmax_i)/d(x_j)
 	"""
-	max_score = max(x)
-	exps = [math.exp(score - max_score) for score in x]
-	sum_exps = sum(exps)
-	probabilities = [e / sum_exps for e in exps]
+	exponents = [math.exp(xi) for xi in x]
+	sum_exponents = sum(exponents)
+	softmax = [exp / sum_exponents for exp in exponents]
 
-	n = len(probabilities)
-	jacobian = [[0.0] * n for _ in range(n)]
+	jacobian = [[0] * len(x) for _ in range(len(x))]
 
-	for i in range(n):
-		for j in range(n):
+	for i in range(len(x)):
+		for j in range(len(x)):
 			if i == j:
-				jacobian[i][j] = probabilities[i] * (1-probabilities[j])
+				jacobian[i][j] = softmax[i] * (1-softmax[i])
 			else:
-				jacobian[i][j] = -probabilities[i] * probabilities[j]
+				jacobian[i][j] = -softmax[i] * softmax[j]
 
 	return jacobian
-
-
 
 
