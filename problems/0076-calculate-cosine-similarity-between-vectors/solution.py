@@ -9,13 +9,8 @@ def cosine_similarity(v1, v2):
 	Returns:
 		The cosine_similarity of the two vectors.
 	"""
-	if len(v1) != len(v2):
-		return -1
-	
-	v1 = np.array(v1)
-	v2 = np.array(v2)
-
-	l2_a = np.sqrt(np.sum(v1**2))
-	l2_b = np.sqrt(np.sum(v2**2))
-
-	return v1.dot(v2) / (l2_a * l2_b)
+	dot_product = v1 @ v2
+	l2_v1 = np.sqrt(np.sum(v1**2))
+	l2_v2 = np.sqrt(np.sum(v2**2))
+	cosine_similarity = dot_product / (l2_v1*l2_v2)
+	return cosine_similarity
