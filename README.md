@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 55 problems · 0 labs · 10 math
+**66** solved · 56 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-08-20 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-08-17 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-08-09 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
+| [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-10-01 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-08-23 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-08-20 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-08-09 | [solution](problems/0042-implement-relu-activation-function) |
