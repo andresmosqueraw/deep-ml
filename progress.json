@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:34:36.697Z",
+  "generated_at": "2026-10-01T17:35:40.225Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -184,9 +184,9 @@
       "url": "https://www.deep-ml.com/problems/83",
       "path": "problems/0083-dot-product-calculator",
       "first_solved_at": "2026-08-08T16:28:10.053Z",
-      "last_pushed_at": "2026-08-08T16:28:10.053Z",
+      "last_pushed_at": "2026-10-01T17:35:39.666Z",
       "language": "python",
-      "lines": 17
+      "lines": 13
     },
     "problem:121": {
       "kind": "problem",
