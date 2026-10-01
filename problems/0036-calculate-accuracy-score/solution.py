@@ -6,4 +6,4 @@ def accuracy_score(y_true, y_pred):
 	# print(TP_and_TN)
 	total = len(y_true)
 	accuracy = TP_and_TN / total
-	return accuracy
+	return np.sum(y_true == y_pred) / len(y_true)
