@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:28:34.927Z",
+  "generated_at": "2026-10-01T17:30:31.439Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -538,7 +538,7 @@
       "url": "https://www.deep-ml.com/problems/883",
       "path": "problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication",
       "first_solved_at": "2026-08-17T15:45:41.733Z",
-      "last_pushed_at": "2026-08-17T15:45:41.733Z",
+      "last_pushed_at": "2026-10-01T17:30:30.465Z",
       "language": "python",
       "lines": 5
     },
