@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:43:12.003Z",
+  "generated_at": "2026-10-02T16:46:11.044Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -362,9 +362,9 @@
       "url": "https://www.deep-ml.com/problems/881",
       "path": "problems/0881-reshape-and-transpose-a-tensor",
       "first_solved_at": "2026-08-14T20:07:06.610Z",
-      "last_pushed_at": "2026-08-14T20:07:06.610Z",
+      "last_pushed_at": "2026-10-02T16:46:10.474Z",
       "language": "python",
-      "lines": 8
+      "lines": 10
     },
     "math:8": {
       "kind": "math",
