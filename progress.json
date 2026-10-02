@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:28:11.379Z",
+  "generated_at": "2026-10-02T16:34:50.174Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -210,7 +210,7 @@
       "url": "https://www.deep-ml.com/math-problems/18",
       "path": "math/0018-descriptive-statistics",
       "first_solved_at": "2026-08-08T16:51:20.302Z",
-      "last_pushed_at": "2026-09-30T13:37:37.698Z"
+      "last_pushed_at": "2026-10-02T16:34:49.151Z"
     },
     "math:5": {
       "kind": "math",
