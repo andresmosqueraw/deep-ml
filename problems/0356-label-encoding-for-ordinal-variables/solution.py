@@ -10,7 +10,14 @@ def label_encode_ordinal(values: list, order: list) -> list:
         List of integers representing the encoded values
     """
     order_dict = {}
-    for i, o in enumerate(order):
-        order_dict[o] = i
+    for i in range(len(order)):
+        order_dict[order[i]] = i
 
-    return [order_dict[v] if v in order_dict else -1 for v in values]
+    res = []
+    for v in values:
+        if v not in order_dict:
+            res.append(-1)
+        else:
+            res.append(order_dict[v])
+
+    return res
