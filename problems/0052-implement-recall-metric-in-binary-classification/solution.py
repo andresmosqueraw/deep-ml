@@ -11,10 +11,9 @@ def recall(y_true, y_pred):
     Returns:
         Recall value as a float
     """
-    tp = np.sum((y_true == 1) & (y_pred == 1))
-    fn = np.sum((y_true == 1) & (y_pred == 0))
+    TP = np.sum((y_true == 1) & (y_pred == 1))
+    FN = np.sum((y_true == 1) & (y_pred == 0))
+    if TP + FN > 0:
+        return TP / (TP+FN)
 
-    if tp + fn == 0:
-        return 0.0
-    
-    return tp / (tp+fn)
+    return 0.0
