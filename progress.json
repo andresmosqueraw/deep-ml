@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:51:25.547Z",
+  "generated_at": "2026-10-02T16:53:35.623Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -425,9 +425,9 @@
       "url": "https://www.deep-ml.com/problems/882",
       "path": "problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting",
       "first_solved_at": "2026-08-16T18:08:18.379Z",
-      "last_pushed_at": "2026-08-16T18:08:18.379Z",
+      "last_pushed_at": "2026-10-02T16:53:35.093Z",
       "language": "python",
-      "lines": 6
+      "lines": 5
     },
     "math:32": {
       "kind": "math",
