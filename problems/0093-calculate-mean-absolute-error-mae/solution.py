@@ -11,4 +11,4 @@ def mae(y_true, y_pred):
     Returns:
         float: Mean Absolute Error
     """
-    return np.mean(abs(y_true-y_pred))
+    return np.mean(np.abs(y_true - y_pred))
