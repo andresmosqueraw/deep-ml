@@ -1,7 +1,10 @@
 import numpy as np
 
 def make_diagonal(x):
-	result = [[0.0] * len(x) for _ in range(len(x))]
-	for i in range(len(x)):
-		result[i][i] = x[i]
-	return result
+	len_x = len(x)
+	diagonal = [[0] * len_x for _ in range(len_x)]
+	
+	for i in range(len_x):
+		diagonal[i][i] = x[i]
+
+	return diagonal
