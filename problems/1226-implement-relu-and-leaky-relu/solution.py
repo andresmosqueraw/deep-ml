@@ -9,7 +9,8 @@ def relu(t):
     Returns:
         torch.Tensor: activated tensor
     """
-    return torch.clip(t, min=0.0)
+    # TODO: implement with pure torch ops
+    return torch.clip(t, 0)
 
 def leaky_relu(t, slope=0.01):
     """Element-wise Leaky ReLU with given negative slope.
@@ -21,4 +22,5 @@ def leaky_relu(t, slope=0.01):
     Returns:
         torch.Tensor: activated tensor
     """
-    return torch.where(t>0, t, slope*t)
+    # TODO: implement with pure torch ops
+    return torch.where(t>0, t, t*slope)
