@@ -12,14 +12,7 @@ def inverse_2x2(matrix: list[list[float]]) -> list[list[float]] | None:
     # Your code here
     a, b, c, d = matrix[0][0], matrix[0][1], matrix[1][0], matrix[1][1]
     determinant = a*d - b*c
-    
     if determinant == 0:
         return None
-    
-    scalar = (1/determinant)
-    # print(scalar)
-    # [[d, -b], [-c, a]]
-    return [[d*scalar, -b*scalar], [-c*scalar, a*scalar]]
-        
-
-
+    coef = 1/determinant
+    return [[d*coef, -b*coef], [-c*coef, a*coef]]
